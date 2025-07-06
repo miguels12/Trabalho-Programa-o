@@ -1,5 +1,3 @@
-# Trabalho-Programa-o
-
 Cálculo de 2 números
 
 1 - Para que serve?
